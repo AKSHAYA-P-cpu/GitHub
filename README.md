@@ -11,3 +11,7 @@
 ##Day 3-Book Catalogue Page
 -Built using HTML
 -Simple book catalogue page with table of books
+
+##Day 4-Personal Profile Page
+-Built using HTML
+-Simple Personal profile page
